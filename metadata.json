@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Caldera Overload",
+  "description": "A high-tension volcanic magma charging HTML5 canvas game. Retain geothermal pressure and extract thermal energy before the caldera erupts!",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
